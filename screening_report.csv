@@ -1,0 +1,13 @@
+customer_id,customer_name,best_match,list_type,match_score,status
+C0003,Viktor Ivanov,Viktor Petrovich Ivanov,SANCTIONS,100.0,HIT
+C0010,Olga Volkova,Olga Sergeyevna Volkova,SANCTIONS,100.0,HIT
+C0009,Jean-Pierre Dubois,Jean Pierre Dubois,PEP,100.0,HIT
+C0006,Laura Santoro,Laura Francesca Santoro,PEP,100.0,HIT
+C0012,Kim Jong Sun,Kim Jong Sung,SANCTIONS,96.0,HIT
+C0005,Ali Reza Karimy,Ali Reza Karimi,SANCTIONS,93.3,HIT
+C0008,Ahmad Mahmud Farouk,Ahmed Mahmoud Farouk,PEP,92.3,HIT
+C0001,Muhammad Al Hasan,Mohammad Al Hassan,SANCTIONS,91.4,HIT
+C0004,Giulia Bianchi,Giuseppe Moretti Bellini,PEP,47.4,CLEAR
+C0011,Luca Ferrari,Laura Francesca Santoro,PEP,40.0,CLEAR
+C0002,Marco Rossi,Ahmed Mahmoud Farouk,PEP,38.7,CLEAR
+C0007,Sara Verdi,Carlos Eduardo Mendez,SANCTIONS,38.7,CLEAR

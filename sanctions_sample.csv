@@ -1,0 +1,13 @@
+list_id,name,list_type,country
+S001,Mohammad Al Hassan,SANCTIONS,SY
+S002,Viktor Petrovich Ivanov,SANCTIONS,RU
+S003,Kim Jong Sung,SANCTIONS,KP
+S004,Ali Reza Karimi,SANCTIONS,IR
+S005,Carlos Eduardo Mendez,SANCTIONS,VE
+S006,Hassan Abdullah Al Mansour,SANCTIONS,YE
+S007,Olga Sergeyevna Volkova,SANCTIONS,RU
+S008,Ibrahim Yusuf Danjuma,SANCTIONS,NG
+P001,Giuseppe Moretti Bellini,PEP,IT
+P002,Laura Francesca Santoro,PEP,IT
+P003,Ahmed Mahmoud Farouk,PEP,EG
+P004,Jean Pierre Dubois,PEP,FR
